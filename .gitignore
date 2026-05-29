@@ -22,3 +22,10 @@ packages/
 # Archivos temporales del SO
 Thumbs.db
 desktop.ini
+
+# Archivos temporales de Office (bloqueo de Word/Excel abiertos)
+~$*
+
+# Documentacion / entregables que no se versionan
+CLAUDE.md
+Taller_WebService_SOAP_WSDL.docx
