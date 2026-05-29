@@ -1,0 +1,24 @@
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# NuGet packages (se restauran con NuGet, no se versionan)
+packages/
+*.nupkg
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Claude Code (configuración local, no del proyecto)
+.claude/
+
+# Resultados de pruebas / logs
+[Tt]est[Rr]esult*/
+*.log
+
+# Archivos temporales del SO
+Thumbs.db
+desktop.ini
